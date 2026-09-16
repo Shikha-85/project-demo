@@ -1,4 +1,4 @@
 # project-demo
 First git project.
 <br>
-Author - Shikha Mittal
+Author - Shikha Jindal
