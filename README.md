@@ -1,2 +1,3 @@
 # project-demo
-First git project
+First git project.
+Author - Shikha Mittal
